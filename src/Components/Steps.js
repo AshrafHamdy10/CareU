@@ -29,6 +29,7 @@ const Steps = () => {
                 sx={{
                   height: "200px",
                   textAlign: "center",
+                  mb: "15px",
                 }}
               >
                 <Card sx={{ padding: "15px 0px" }}>
